@@ -1,6 +1,7 @@
 
 import Navbar from '../components/Navbar'
 import Head from 'next/head'
+import Hero from '@/components/Hero'
 
 export default function Blog() {
     return (
